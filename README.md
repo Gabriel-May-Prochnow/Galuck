@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🧍  I'm from Brazil and I'm 19 years old;
 - 🇧🇷  My native language is Portuguese, but I speak English and I'm learning German;
-- 🌱 I’m currently learning Python, Java and SQl;
+- 🌱 I’m currently learning Python, Java and SQL;
 - 👯 I’m looking to collaborate on a 2D Indie GAME Project;
 - 🤔 I’m looking for help with 2D animations;
 - ⚔️ Fun fact: I love editing videos for Youtube;
@@ -28,6 +28,7 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCfqMXtV0-8uVFE6tfrmQTXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabriel__may" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/GabrielMayPro" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href = "mailto:gabrielmaypro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-may-prochnow-2b5a761a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
