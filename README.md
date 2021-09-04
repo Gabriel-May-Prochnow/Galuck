@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a 2D Indie GAME Project;
 - 🤔 I’m looking for help with 2D animations;
 - ⚔️ Fun fact: I love editing videos for Youtube;
-- How to reach me: 📧 gabrielmaypro@gmail.com / 📷 Instagram: gabriel_may / 🐦 Twitter: @GabrielMayPro ;
+- How to reach me: 📧 gabrielmaypro@gmail.com / 📷 Instagram: gabriel__may / 🐦 Twitter: @GabrielMayPro ;
 
 ##
 
