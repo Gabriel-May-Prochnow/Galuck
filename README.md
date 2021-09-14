@@ -21,7 +21,7 @@
   <img align="center" alt="May-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="May-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="May-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-  <img align="right"  alt="May-img" height="280" width="160" src="https://static.wikia.nocookie.net/5toubun-no-hanayome/images/3/35/Yotsuba_Nakano_FULL_BODY.png/revision/latest?cb=20210518124701">
+  <img align="right"  alt="May-img" height="160" width="160" src="https://www.pngkit.com/png/full/68-687823_adesivo-god-of-war-de-lucas-trujillosna-god.png">
 </div>
   
   ##
