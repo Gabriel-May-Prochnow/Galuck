@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🧍  I'm from Brazil and I'm 19 years old;
+- 🧍  I'm from Brazil and I'm 20 years old;
 - 🇧🇷  My native language is Portuguese, but I speak English and I'm learning German;
-- 🌱 I’m currently learning Python, Java and SQL;
+- 🌱 I’m currently learning Python, SQL and HTML/CSS;
 - 👯 I’m looking to collaborate on a 2D Indie GAME Project;
-- 🤔 I’m looking for help with 2D animations;
 - ⚔️ Fun fact: I love editing videos for Youtube;
+- Currently Working at Trixxfs 
 - How to reach me: 📧 gabrielmaypro@gmail.com / 📷 Instagram: gabriel__may / 🐦 Twitter: @GabrielMayPro ;
 
 ##
