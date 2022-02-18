@@ -18,7 +18,6 @@
   <img align="center" alt="May-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="May-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="May-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="May-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="May-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
   <img align="center" alt="May-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="May-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
