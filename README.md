@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python, JavaScript and HTML/CSS;
 - 👯 I’m looking to collaborate on a 2D Indie GAME Project;
 - ⚔️ Fun fact: I love editing videos for Youtube;
-- Currently Working at Trixxfs 
 - How to reach me: 📧 gabrielmaypro@gmail.com / 📷 Instagram: gabriel__may / 🐦 Twitter: @GabrielMayPro ;
 
 ##
