@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🧍  I'm from Brazil and I'm 21 years old;
+- 🧍  I'm from Brazil and I'm 22 years old;
 - 🇧🇷  My native language is Portuguese, but I speak English and I'm learning German;
 - 🌱 I’m currently learning Python, JavaScript and HTML/CSS;
 - 👯 I’m looking to collaborate on a 2D Indie GAME Project;
